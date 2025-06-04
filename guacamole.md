@@ -8,4 +8,5 @@
 
 ## Instructions
 * smash avocado
-* mix all ingredients with a fork 
+* mix all ingredients with a fork
+* put 2 cups of salt  
