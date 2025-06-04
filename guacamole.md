@@ -7,4 +7,5 @@
 * salt
 
 ## Instructions
-new instructions
+* smash avocado
+* mix all ingredients with a fork 
